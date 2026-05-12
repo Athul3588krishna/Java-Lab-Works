@@ -40,7 +40,7 @@ class Teacher extends Employee {
     }
 }
 
-public class Program12 {
+public class employeeteacher {
 
     public static void main(String[] args) {
 

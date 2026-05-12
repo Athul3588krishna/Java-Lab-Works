@@ -58,7 +58,7 @@ class Teacher extends Employee {
     }
 }
 
-public class Program13 {
+public class person{
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
